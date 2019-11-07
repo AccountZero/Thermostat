@@ -49,9 +49,6 @@ void waitForButtonAndCountDown()
 
 void setup()
 {
-  // Uncomment if necessary to correct motor directions:
-  //motors.flipLeftMotor(true);
-  //motors.flipRightMotor(true);
 
   lineSensors.initThreeSensors();
 
