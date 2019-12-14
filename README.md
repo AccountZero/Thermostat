@@ -1,3 +1,3 @@
 Thermostat
 
-This is code for Arduino, that i made for school. 
+This is code for a Thermostat, that I have built with Arduino Mega 2560. 
