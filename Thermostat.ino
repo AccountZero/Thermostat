@@ -1,7 +1,8 @@
 #include "DHT.h"
 /*
 author: Hubert Korona
-description: The thermostat does measure the temperature and heats up or cools down the temperature whenever it's too hot (over 30C) or too cold (under 20C)
+description: The thermostat does measure the temperature and (theoretically) heats up or cools down the temperature whenever it's too hot (over 30C) or too cold (under 20C)
+version: 1.0
 */
 
 // Digital pin connected to the DHT 
