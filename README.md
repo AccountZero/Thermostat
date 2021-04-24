@@ -1,4 +1,1 @@
-Thermostat
-
-This is code for a Thermostat, that I have built with Arduino Mega 2560. There is also a Photo provided for my code. 
-I would suggest to download the photo, since how github displays the photo is not convenient.
+This is the source code, which was made for a school project in 2019 but after that never went far with it. At that time I really didn't know how to actually even use git or make good readme's. Whenever I have time again (now learning for final tests), I will actually make a tutorial how to set up this whole thing honestly.
